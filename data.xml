@@ -1,0 +1,56 @@
+<userlist>
+    <viyaaat password="Ak123!">
+        <rollno>106119007</rollno>
+        <name>akash Kumar</name>
+        <fathername>raju Lal</fathername>
+        <branch>CSE</branch>
+        <year>3</year>
+        <email>kumarakash@gmail.com</email>
+        <address>Dausa</address>
+    </viyaaat>
+    <akki password="abc12@">
+        <rollno>106119009</rollno>
+        <name>abhi</name>
+        <fathername>Radhey</fathername>
+        <branch>EEE</branch>
+        <year>3</year>
+        <email>kashkar@gmail.com</email>
+        <address>Jaipur</address>
+    </akki>
+    <shyam password="ab123!">
+        <rollno></rollno>
+        <name></name>
+        <fathername></fathername>
+        <branch></branch>
+        <year></year>
+        <email></email>
+        <address></address>
+    </shyam>
+    <ramesh password="123A@@">
+        <rollno></rollno>
+        <name></name>
+        <fathername></fathername>
+        <branch></branch>
+        <year></year>
+        <email></email>
+        <address></address>
+    </ramesh>
+    <raghav password="asd1@@">
+        <rollno></rollno>
+        <name></name>
+        <fathername></fathername>
+        <branch></branch>
+        <year></year>
+        <email></email>
+        <address></address>
+    </raghav>
+    <indira password="1234a!">
+        <rollno>106119051</rollno>
+        <name>indra raj</name>
+        <fathername>smth</fathername>
+        <branch>Civil</branch>
+        <year>4</year>
+        <email>raj@gmail,com</email>
+        <address>lala lajpat nagar</address>
+    </indira>
+</userlist>

@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta" name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>updatee</title>
+</head>
+
+<body>
+    <h1>Student Profiles</h1>
+    <h3><a href="/">Homepage</a></h3>
+    <h2>update profile</h2>
+    <form action="/update" method="post">
+        <label for="username">Hii </label>
+        <input type="text" readonly value="<%=username %>" name='username'>
+        <br>
+        <label for="rollno">Roll No. : </label>
+        <input type="text" value="<%=userObj.rollno.$t %>" name="rollno">
+        <br>
+        <label for="name">Name : </label>
+        <input type="text" value="<%=userObj.name.$t %>" name="name">
+        <br>
+        <label for="fathername">Father's Name : </label>
+        <input type="text" value="<%=userObj.fathername.$t %>" name="fathername">
+        <br>
+        <label for="branch">Branch : </label>
+        <input type="text" value="<%=userObj.branch.$t %>" name="branch">
+        <br>
+        <label for="year">Year : </label>
+        <input type="text" value="<%=userObj.year.$t %>" name="year">
+        <br>
+        <label for="email">E-Mail : </label>
+        <input type="text" value="<%=userObj.email.$t %>" name="email">
+        <br>
+        <label for="address">Address : </label>
+        <input type="text" value="<%=userObj.address.$t %>" name="address">
+        <br><br>
+        <input type="submit" value="UPDATE">
+
+    </form>
+</body>
+
+</html>
